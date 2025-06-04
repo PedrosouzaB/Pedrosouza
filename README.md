@@ -7,8 +7,9 @@ Olá! Meu nome é [Pedro] Tenho 15 Anos e sou um grande apaixonado por tecnologi
 Sou um entusiasta de desenvolvimento web, back-end e automação. Sempre tentando aprender algo novo e melhorar minhas habilidades!
 
 ---
-![vegetti-gol](https://github.com/us![vegetti-gol](https://github.com/user-attachments/assets/dac842c0-59d2-4382-ad7c-6be66eb62409)
-er-attachments/assets/68590af5-4585-4545-9b87-28711aeeaf2a)
+
+![vegetti-gol](https://github.com/user-attachments/assets/a398733f-e08b-414e-ae80-f08078f6ee11)
+
 
 ## ✠ Sobre o Vasco da Gama
 
@@ -23,7 +24,6 @@ O **Vasco da Gama** é mais que um clube, é uma história de luta, tradição e
 **Estádio:** São Januário  
 **Mascote:** Almirante  
 **Hino:** "Vamos todos cantar de coração..." 🎶
-![vasco-vegetti](https://github.com/user-attachments/assets/046b353f-e41a-4f47-9bb8-66e8c67310c7)
 
 ---
 
