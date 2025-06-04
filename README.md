@@ -44,8 +44,8 @@ O **Vasco da Gama** é mais que um clube, é uma história de luta, tradição e
 ## 📫 Como me encontrar
 
 - ✉️ Email:guilhermebrunner2@gmail.com
-- 🔗 LinkedIn: [seu-linkedin](https://linkedin.com/in/seuusuario)  
-- 💬 Instagram:#instagram.com/pedrin.nxm?igsh=MjRdm5pamxINGI3
+- 🔗 Tiktok: [seu-linkedin](https://linkedin.com/in/seuusuario)  
+- 💬 Instagram:
 
 ---
 
