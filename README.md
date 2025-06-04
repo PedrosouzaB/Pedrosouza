@@ -23,10 +23,12 @@ O **Vasco da Gama** é mais que um clube, é uma história de luta, tradição e
 **Estádio:** São Januário  
 **Mascote:** Almirante  
 **Hino:** "Vamos todos cantar de coração..." 🎶
+![vasco-vegetti](https://github.com/user-attachments/assets/046b353f-e41a-4f47-9bb8-66e8c67310c7)
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias que uso!
+
 
 - JavaScript / TypeScript
 - Node.js / Express
