@@ -22,9 +22,11 @@ O **Vasco da Gama** é mais que um clube, é uma história de luta, tradição e
 - 🏆 Campeonatos Cariocas (24x)
 
 
+
 **Estádio:** São Januário  
 **Mascote:** Almirante  
 **Hino:** "Vamos todos cantar de coração..." 🎶
+
 
 ---
 ![vasco-leo-jaba](https://github.com/user-attachments/assets/593daabf-b50e-445d-95f8-65a8f3e5e54a)
@@ -40,6 +42,7 @@ O **Vasco da Gama** é mais que um clube, é uma história de luta, tradição e
 - Git / GitHub
 - Docker / Linux
 
+
 ---
 
 ## 📫 Como me encontrar
@@ -47,6 +50,7 @@ O **Vasco da Gama** é mais que um clube, é uma história de luta, tradição e
 - ✉️ Email:guilhermebrunner2@gmail.com
 - 🔗 Tiktok: [seu-linkedin](https://linkedin.com/in/seuusuario)  
 - 💬 Instagram:
+
 
 ---
 
