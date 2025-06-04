@@ -26,6 +26,8 @@ O **Vasco da Gama** é mais que um clube, é uma história de luta, tradição e
 **Hino:** "Vamos todos cantar de coração..." 🎶
 
 ---
+![vasco-leo-jaba](https://github.com/user-attachments/assets/593daabf-b50e-445d-95f8-65a8f3e5e54a)
+
 
 ## 🛠️ Tecnologias que uso!
 
@@ -41,9 +43,9 @@ O **Vasco da Gama** é mais que um clube, é uma história de luta, tradição e
 
 ## 📫 Como me encontrar
 
-- ✉️ Email: seuemail@exemplo.com  
+- ✉️ Email:guilhermebrunner2@gmail.com
 - 🔗 LinkedIn: [seu-linkedin](https://linkedin.com/in/seuusuario)  
-- 💬 Instagram: [@seuuser](https://instagram.com/seuuser)
+- 💬 Instagram: 
 
 ---
 
