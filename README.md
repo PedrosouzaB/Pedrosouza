@@ -22,9 +22,6 @@ O **Vasco da Gama** é mais que um clube, é uma história de luta, tradição e
 - 🏆 Campeonatos Cariocas (24x)
 
 
-![5bb15e2efde6c36ff3c9b3d0e7f349c6](https://github.com/user-attachments/assets/f311753d-8bb2-462a-95ca-ff9445b2b98e)
-
-
 **Estádio:** São Januário  
 **Mascote:** Almirante  
 **Hino:** "Vamos todos cantar de coração..." 🎶
