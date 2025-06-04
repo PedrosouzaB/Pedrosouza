@@ -7,7 +7,8 @@ Olá! Meu nome é [Pedro] Tenho 15 Anos e sou um grande apaixonado por tecnologi
 Sou um entusiasta de desenvolvimento web, back-end e automação. Sempre tentando aprender algo novo e melhorar minhas habilidades!
 
 ---
-![vegetti-gol](https://github.com/user-attachments/assets/68590af5-4585-4545-9b87-28711aeeaf2a)
+![vegetti-gol](https://github.com/us![vegetti-gol](https://github.com/user-attachments/assets/dac842c0-59d2-4382-ad7c-6be66eb62409)
+er-attachments/assets/68590af5-4585-4545-9b87-28711aeeaf2a)
 
 ## ✠ Sobre o Vasco da Gama
 
